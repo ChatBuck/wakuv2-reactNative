@@ -1,6 +1,6 @@
 # About
 
-Waku ChatBuck React Native Chat Application
+ChatBuck Waku React Native Chat Application
 
 ## Installation
 
